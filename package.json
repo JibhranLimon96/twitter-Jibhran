@@ -1,7 +1,0 @@
-"name": "twitter"
-"version": "1.0.0"
-¨description¨: ¨Esto es un proyecto de Jibhran¨
-¨main¨: ¨index.js¨,
-¨scripts¨: {
-   ¨test¨: ¨ echo  ¨:
-}
